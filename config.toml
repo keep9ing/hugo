@@ -2,3 +2,8 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = '9ing blog'
 theme = 'hugo-book-master'
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  subcategory = 'subcategories'
