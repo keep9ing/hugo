@@ -1,9 +1,23 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://keep9ing.github.io/'
 languageCode = 'en-us'
 title = '9ing blog'
 theme = 'hugo-book-master'
 
 [taxonomies]
-  category = 'categories'
-  tag = 'tags'
-  subcategory = 'subcategories'
+  category = "categories"
+  tag = "tags"
+  subcategory = "subcategories"
+
+# Code highlight configuration
+# https://gowoonsori.com/projects/start-hugo/custom/ 참고
+[markup.highlight]
+codeFences = true
+guessSyntax = true
+hl_Lines = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = false
+noClasses = true
+style = "dracula"
+#style = "native"
+tabWidth = 2
