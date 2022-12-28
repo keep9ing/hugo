@@ -6,6 +6,7 @@ draft: false
 
 <h1> ~ <h6>
 
+
 # title 1
 ## title 2
 ### title 3
@@ -13,6 +14,7 @@ draft: false
 ##### title 5
 ###### title 6
 
+=======
 title 1
 ======
 
@@ -96,3 +98,5 @@ cell 1 | cell 2 | cell 3
 1' | 2' | 3'3333222
 
 
+
+>>>>>>> 5cde2ade11fee8a21166e32818fe95ac899289d6
