@@ -19,4 +19,5 @@ jekyll 설치하다가 우여곡절 끝에 성공은 했는데.. 뜻대로 잘 �
 https://jamstack.org/generators/
 
 
+https://bonoogi.postype.com/post/12232925 깃헙액션 참고
 
