@@ -93,6 +93,6 @@ table : <table>로 변환. header cell  --- hyphens x 3 / : colons cell align
 cell 1 | cell 2 | cell 3
 ---|:---:|:---:
 1 | 2 | 3
-1' | 2' | 3'3333
+1' | 2' | 3'3333222
 
 
